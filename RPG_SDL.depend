@@ -1,0 +1,263 @@
+# depslib dependency file v1.0
+1358700505 source:c:\users\arthur\desktop\rpg_sdl\defines.c
+	"defines.h"
+	"perso/common.h"
+
+1358598488 c:\users\arthur\desktop\rpg_sdl\defines.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1358706548 source:c:\users\arthur\desktop\rpg_sdl\gen_map.c
+	"defines.h"
+	"gen_map.h"
+
+1358598526 c:\users\arthur\desktop\rpg_sdl\gen_map.h
+	"defines.h"
+
+1358705411 source:c:\users\arthur\desktop\rpg_sdl\gestion_map.c
+	"gestion_map.h"
+
+1358700584 c:\users\arthur\desktop\rpg_sdl\gestion_map.h
+	"defines.h"
+	"perso/common.h"
+
+1358716169 source:c:\users\arthur\desktop\rpg_sdl\main.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"defines.h"
+	"gestion_map.h"
+	"gen_map.h"
+	<setjmp.h>
+	"perso/affichage.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 d:\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1358598510 c:\users\arthur\desktop\rpg_sdl\perso\common.h
+	"../defines.h"
+	<string.h>
+	<math.h>
+	"perso.h"
+	"liste.h"
+
+1358598518 c:\users\arthur\desktop\rpg_sdl\perso\perso.h
+
+1358598514 c:\users\arthur\desktop\rpg_sdl\perso\liste.h
+
+1358598514 source:c:\users\arthur\desktop\rpg_sdl\perso\liste.c
+	"common.h"
+
+1358705805 source:c:\users\arthur\desktop\rpg_sdl\perso\perso.c
+	"common.h"
+
+1358598520 source:c:\users\arthur\desktop\rpg_sdl\perso\pnj.c
+	"common.h"
+	"perso.h"
+	"pnj.h"
+
+1358598522 c:\users\arthur\desktop\rpg_sdl\perso\pnj.h
+
+1358598524 source:c:\users\arthur\desktop\rpg_sdl\perso\random.c
+	"common.h"
+
+1327110693 d:\codeblocks\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1358696715 c:\users\arthur\desktop\rpg_sdl\perso\affichage.h
+
+1358697128 source:c:\users\arthur\desktop\rpg_sdl\perso\affichage.c
+	"SDL/SDL_image.h"
+	"common.h"
+	"affichage.h"
+
